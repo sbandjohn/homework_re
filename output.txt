@@ -1,8 +1,4 @@
 case 1:
-xyzABC901[]
-& -567HIJabcd
-	%$121ajajaHJ
- slkfjAFJF.09
 A1a+-
 U*8ik77
 9sad8a- =AA
@@ -11,7 +7,8 @@ case 2:
 \\\\\\\\
 \\\\\\\\\r\n
 \\\e\r\n123
-1
-end of file
-
-
+aa\0a
+case 3:
+sdflkjawe@dsfj.com
+2@a.com
+this is an real email@aha.com

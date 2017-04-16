@@ -1,16 +1,3 @@
-start of file
-abc
-12345
-XYZWZTK
--=[]\/()*
-xyzABC901
-& -567HIJ
-	%$121ajaja
- slkfjAFJF.
-xyzABC901[]
-& -567HIJabcd
-	%$121ajajaHJ
- slkfjAFJF.09
 xyzABC 901[]
 & -567HIJa+bcd
 	%$121jajaHJ
@@ -30,5 +17,17 @@ U*8ik77
 \\\\\\\
 \\\\\\\\\r\n
 \\\e\r\n123
-1
+23
+asa\9
+aa\0a
+sdflkjawe@dsfj.com
+lksadf  @dd
+aa d@12.cn
+ha 123 *(&(*)@ @ .com
+@com
+@baidu.com
+1@com
+2@a.com
+this is an email @ aha.com
+this is an real email@aha.com
 end of file
